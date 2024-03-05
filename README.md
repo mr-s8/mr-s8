@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://cdn.pixabay.com/animation/2023/04/25/17/22/17-22-56-567_512.gif" alt="MasterHead">
+  <img src="https://github.com/mr-s8/mr-s8/blob/main/images/crocodile-5676_512.gif" alt="Profile Master Picture">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jannis</h1>
