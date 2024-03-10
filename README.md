@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://github.com/mr-s8/mr-s8/blob/main/images/crocodile-5676_512.gif" alt="Profile Master Picture">
+  <img src="https://github.com/mr-s8/mr-s8/blob/main/images/crocodile-5676_512.gif" width="500" alt="Profile Master Picture">
 </div>
 
 <h1 align="center">Hi 👋, I'm Jannis</h1>
