@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Python and Java projects to automate my workflows.**
+- 🔭 I’m currently working on **Python and Java projects to automate all kinds of tasks.**
 
 - 🌱 I’m currently learning **Tensorflow and Java Swing**
 
