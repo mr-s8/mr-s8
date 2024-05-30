@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Python and Java projects to automate all kinds of tasks.**
 
-- 🌱 I’m currently learning **Tensorflow and Java Swing**
+- 🌱 I’m currently learning **React**
 
 - 📝 Working on my bachelors degree in computer science
 
