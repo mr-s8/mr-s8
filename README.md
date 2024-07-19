@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Web and Arduino projects to automate all kinds of tasks.**
+- 🔭 I’m currently working on **Web and Arduino projects.**
 
 - 🌱 I’m currently learning **React**
 
