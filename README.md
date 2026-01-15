@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **Web and Arduino projects.**
+- 🔭 I’m currently working on **Web and Embedded projects.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
-- 📝 Working on my bachelors degree in computer science
+- 📝 Just completed my bachelor’s degree in computer science
 
 
 
